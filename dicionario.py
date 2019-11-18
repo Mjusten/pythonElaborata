@@ -47,7 +47,7 @@ d["abacate"] = "feira"
 
 chave = input()
 valor = input()
-d["laranja"] = {chave : valor}
+d["laranja"] = {chave:valor}
 
 
 print(d)
